@@ -1,0 +1,130 @@
+
+   {
+    "$schema": "https://bridge.playgama.com/v1/stable/schema.json",
+    "advertisement": {
+        "interstitial": {
+            "preloadOnStart": true
+        },
+        "rewarded": {
+            "preloadOnStart": true
+        },
+        "useBuiltInErrorPopup": true,
+        "backfillId": ""
+    },
+    "payments": [
+        {
+            "id": "1",
+            "playgama": {
+                "amount": 50
+            },
+            "playdeck": {
+                "amount": 50,
+                "description": "Cover (permanent item)"
+            }
+        },
+        {
+            "id": "2",
+            "playgama": {
+                "amount": 50
+            },
+            "playdeck": {
+                "amount": 50,
+                "description": "Hand (permanent item)"
+            }
+        },
+        {
+            "id": "3",
+            "playgama": {
+                "amount": 100
+            },
+            "playdeck": {
+                "amount": 100,
+                "description": "Steal (permanent item)"
+            }
+        },
+        {
+            "id": "4",
+            "playgama": {
+                "amount": 20
+            },
+            "playdeck": {
+                "amount": 20,
+                "description": "10k coins (one-time grant)"
+            }
+        },
+        {
+            "id": "5",
+            "playgama": {
+                "amount": 90
+            },
+            "playdeck": {
+                "amount": 90,
+                "description": "20k coins (one-time grant)"
+            }
+        },
+        {
+            "id": "6",
+            "playgama": {
+                "amount": 150
+            },
+            "playdeck": {
+                "amount": 150,
+                "description": "30k coins (one-time grant)"
+            }
+        },
+        {
+            "id": "7",
+            "playgama": {
+                "amount": 250
+            },
+            "playdeck": {
+                "amount": 250,
+                "description": "40k coins (one-time grant)"
+            }
+        },
+        {
+            "id": "8",
+            "playgama": {
+                "amount": 500
+            },
+            "playdeck": {
+                "amount": 500,
+                "description": "50k coins (one-time grant)"
+            }
+        },
+        {
+            "id": "9",
+            "playgama": {
+                "amount": 50
+            },
+            "playdeck": {
+                "amount": 50,
+                "description": "+10 speed points (one-time grant)"
+            }
+        },
+        {
+            "id": "10",
+            "playgama": {
+                "amount": 50
+            },
+            "playdeck": {
+                "amount": 50,
+                "description": "No Ads (disable advertisements)"
+            }
+        },
+        {
+            "id": "11",
+            "playgama": {
+                "amount": 100
+            },
+            "playdeck": {
+                "amount": 100,
+                "description": "VIP status"
+            }
+        }
+    ],
+    "leaderboards": [],
+    "sendAnalyticsEvents": true
+}
+
+
