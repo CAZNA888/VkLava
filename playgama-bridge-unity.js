@@ -140,9 +140,9 @@ function initializeBridge() {
                 createUnityInstance(
                     CANVAS,
                     {
-                        dataUrl: 'Build/36a29d1fb73bab7a56104ee397e478fa.data.unityweb',
-                        frameworkUrl: 'Build/e8fdb29d31894f9e475a100cf6e70981.framework.js.unityweb',
-                        codeUrl: 'Build/bfdb0e5c34e976b98d93e125c455fa54.wasm.unityweb',
+                        dataUrl: 'Build/009f0daa3c919588818f2e570f2faa0d.data.unityweb',
+                        frameworkUrl: 'Build/053296b83adf288dc81a3aff07b504bb.framework.js.unityweb',
+                        codeUrl: 'Build/4182d10ecdd4e12a7241327219b5c5c0.wasm.unityweb',
                         streamingAssetsUrl: 'StreamingAssets',
                         companyName: 'AltTab3000',
                         productName: 'Mini Games Obby Challenge',
